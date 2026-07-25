@@ -1,92 +1,145 @@
-Source,Destination,Cost,Mode,DataSource
-Dhaka,Chattogram,704,Bus,BRTA Sayedabad fare chart 23 Apr 2026 - 51-seat total fare
-Dhaka,Cox's Bazar,900,Bus,BRTA Sayedabad fare chart 23 Apr 2026 - 51-seat total fare
-Dhaka,Sylhet,557,Bus,BRTA Mohakhali fare chart 23 Apr 2026 - 51-seat total fare
-Dhaka,Rajshahi,579,Bus,BRTA Gabtoli fare chart 23 Apr 2026 - 51-seat total fare
-Dhaka,Khulna,680,Bus,BRTA Gabtoli fare chart 23 Apr 2026 - 51-seat total fare
-Dhaka,Rangpur,751,Bus,BRTA Gabtoli fare chart 23 Apr 2026 - 51-seat total fare
-Dhaka,Thakurgaon,891,Bus,BRTA Gabtoli fare chart 23 Apr 2026 - 51-seat total fare
-Barishal,Khulna,695,Bus,BRTA division-to-division fare chart 23 Apr 2026 - 51-seat total fare
-Barishal,Jashore,374,Bus,BRTA division-to-division fare chart 23 Apr 2026 - 51-seat total fare
-Khulna,Rajshahi,615,Bus,BRTA division-to-division fare chart 23 Apr 2026 - 51-seat total fare
-Khulna,Bogura,665,Bus,BRTA division-to-division fare chart 23 Apr 2026 - 51-seat total fare
-Khulna,Rangpur,929,Bus,BRTA division-to-division fare chart 23 Apr 2026 - 51-seat total fare
-Rangpur,Sylhet,1069,Bus,BRTA division-to-division fare chart 23 Apr 2026 - 51-seat total fare
-Chattogram,Cox's Bazar,420,Bus,TBS report 11 Nov 2023 - non-AC bus fare
-Chattogram,Sylhet,700,Bus,Ena Transport online fare listing - non-AC bus fare
-Dhaka,Chattogram,455,Train,bangladeshrailway.online 2026 popular route fare - Shovon Chair
-Dhaka,Sylhet,435,Train,bangladeshrailway.online 2026 popular route fare - Shovon Chair
-Dhaka,Rajshahi,465,Train,bangladeshrailway.online 2026 popular route fare - Shovon Chair
-Dhaka,Khulna,550,Train,bangladeshrailway.online 2026 popular route fare - Shovon Chair
-Dhaka,Cox's Bazar,495,Train,bangladeshrailway.online 2026 popular route fare - Shovon Chair
-Chattogram,Cox's Bazar,180,Train,bangladeshrailway.online 2026 popular route fare - Shovon Chair
-Dhaka,Rangpur,320,Train,edudaily24.com 2026 Rangpur Express fare - Shovon Chair
-Dhaka,Thakurgaon,650,Train,amartrain.com Dhaka to Thakurgaon fare - Shuvon Chair
-Dinajpur,Thakurgaon,80,Train,cardorkar.com Dinajpur to Thakurgaon fare - Shuvon Chair
-Dhaka,Bogura,650,Bus,Purbasha Bus Counter fare range 2026 - midpoint non-AC
-Dhaka,Dinajpur,725,Bus,Purbasha Bus Counter fare range 2026 - midpoint non-AC
-Dhaka,Thakurgaon,775,Bus,Purbasha Bus Counter fare range 2026 - midpoint non-AC
-Dhaka,Rangpur,775,Bus,Purbasha Bus Counter fare range 2026 - midpoint non-AC
-Dhaka,Gazipur,90,Bus,BRTA official Tk 2.23 per km rate applied to district connector distance estimate
-Dhaka,Narayanganj,70,Bus,BRTA official Tk 2.23 per km rate applied to district connector distance estimate
-Dhaka,Munshiganj,95,Bus,BRTA official Tk 2.23 per km rate applied to district connector distance estimate
-Dhaka,Manikganj,120,Bus,BRTA official Tk 2.23 per km rate applied to district connector distance estimate
-Dhaka,Narsingdi,120,Bus,BRTA official Tk 2.23 per km rate applied to district connector distance estimate
-Narsingdi,Kishoreganj,190,Bus,BRTA official Tk 2.23 per km rate applied to district connector distance estimate
-Dhaka,Faridpur,250,Bus,BRTA official Tk 2.23 per km rate applied to district connector distance estimate
-Faridpur,Gopalganj,160,Bus,BRTA official Tk 2.23 per km rate applied to district connector distance estimate
-Gopalganj,Madaripur,120,Bus,BRTA official Tk 2.23 per km rate applied to district connector distance estimate
-Madaripur,Shariatpur,100,Bus,BRTA official Tk 2.23 per km rate applied to district connector distance estimate
-Faridpur,Rajbari,90,Bus,BRTA official Tk 2.23 per km rate applied to district connector distance estimate
-Dhaka,Tangail,220,Bus,BRTA official Tk 2.23 per km rate applied to district connector distance estimate
-Chattogram,Comilla,350,Bus,BRTA official Tk 2.23 per km rate applied to district connector distance estimate
-Comilla,Brahmanbaria,160,Bus,BRTA official Tk 2.23 per km rate applied to district connector distance estimate
-Comilla,Chandpur,170,Bus,BRTA official Tk 2.23 per km rate applied to district connector distance estimate
-Comilla,Feni,160,Bus,BRTA official Tk 2.23 per km rate applied to district connector distance estimate
-Feni,Chattogram,180,Bus,BRTA official Tk 2.23 per km rate applied to district connector distance estimate
-Feni,Noakhali,140,Bus,BRTA official Tk 2.23 per km rate applied to district connector distance estimate
-Noakhali,Lakshmipur,90,Bus,BRTA official Tk 2.23 per km rate applied to district connector distance estimate
-Chattogram,Bandarban,160,Bus,BRTA official Tk 2.23 per km rate applied to district connector distance estimate
-Bandarban,Rangamati,180,Bus,BRTA official Tk 2.23 per km rate applied to district connector distance estimate
-Rangamati,Khagrachari,180,Bus,BRTA official Tk 2.23 per km rate applied to district connector distance estimate
-Feni,Lakshmipur,150,Bus,BRTA official Tk 2.23 per km rate applied to district connector distance estimate
-Rajshahi,Natore,100,Bus,BRTA official Tk 2.23 per km rate applied to district connector distance estimate
-Natore,Pabna,140,Bus,BRTA official Tk 2.23 per km rate applied to district connector distance estimate
-Pabna,Sirajganj,110,Bus,BRTA official Tk 2.23 per km rate applied to district connector distance estimate
-Rajshahi,Chapainawabganj,120,Bus,BRTA official Tk 2.23 per km rate applied to district connector distance estimate
-Rajshahi,Naogaon,120,Bus,BRTA official Tk 2.23 per km rate applied to district connector distance estimate
-Naogaon,Joypurhat,130,Bus,BRTA official Tk 2.23 per km rate applied to district connector distance estimate
-Joypurhat,Bogura,110,Bus,BRTA official Tk 2.23 per km rate applied to district connector distance estimate
-Bogura,Sirajganj,180,Bus,BRTA official Tk 2.23 per km rate applied to district connector distance estimate
-Khulna,Bagerhat,90,Bus,BRTA official Tk 2.23 per km rate applied to district connector distance estimate
-Khulna,Satkhira,160,Bus,BRTA official Tk 2.23 per km rate applied to district connector distance estimate
-Khulna,Jashore,140,Bus,BRTA official Tk 2.23 per km rate applied to district connector distance estimate
-Jashore,Narail,110,Bus,BRTA official Tk 2.23 per km rate applied to district connector distance estimate
-Jashore,Jhenaidah,120,Bus,BRTA official Tk 2.23 per km rate applied to district connector distance estimate
-Jhenaidah,Kushtia,120,Bus,BRTA official Tk 2.23 per km rate applied to district connector distance estimate
-Kushtia,Meherpur,100,Bus,BRTA official Tk 2.23 per km rate applied to district connector distance estimate
-Jhenaidah,Magura,80,Bus,BRTA official Tk 2.23 per km rate applied to district connector distance estimate
-Jashore,Chuadanga,160,Bus,BRTA official Tk 2.23 per km rate applied to district connector distance estimate
-Barishal,Jhalokathi,60,Bus,BRTA official Tk 2.23 per km rate applied to district connector distance estimate
-Jhalokathi,Pirojpur,70,Bus,BRTA official Tk 2.23 per km rate applied to district connector distance estimate
-Barishal,Patuakhali,120,Bus,BRTA official Tk 2.23 per km rate applied to district connector distance estimate
-Patuakhali,Barguna,110,Bus,BRTA official Tk 2.23 per km rate applied to district connector distance estimate
-Barishal,Bhola,150,Bus,BRTA official Tk 2.23 per km rate applied to district connector distance estimate
-Pirojpur,Bagerhat,90,Bus,BRTA official Tk 2.23 per km rate applied to district connector distance estimate
-Sylhet,Moulvibazar,130,Bus,BRTA official Tk 2.23 per km rate applied to district connector distance estimate
-Moulvibazar,Habiganj,130,Bus,BRTA official Tk 2.23 per km rate applied to district connector distance estimate
-Sylhet,Sunamganj,140,Bus,BRTA official Tk 2.23 per km rate applied to district connector distance estimate
-Habiganj,Brahmanbaria,160,Bus,BRTA official Tk 2.23 per km rate applied to district connector distance estimate
-Rangpur,Gaibandha,110,Bus,BRTA official Tk 2.23 per km rate applied to district connector distance estimate
-Rangpur,Nilphamari,120,Bus,BRTA official Tk 2.23 per km rate applied to district connector distance estimate
-Nilphamari,Lalmonirhat,90,Bus,BRTA official Tk 2.23 per km rate applied to district connector distance estimate
-Lalmonirhat,Kurigram,90,Bus,BRTA official Tk 2.23 per km rate applied to district connector distance estimate
-Rangpur,Dinajpur,160,Bus,BRTA official Tk 2.23 per km rate applied to district connector distance estimate
-Dinajpur,Panchagarh,160,Bus,BRTA official Tk 2.23 per km rate applied to district connector distance estimate
-Panchagarh,Thakurgaon,100,Bus,BRTA official Tk 2.23 per km rate applied to district connector distance estimate
-Rangpur,Kurigram,150,Bus,BRTA official Tk 2.23 per km rate applied to district connector distance estimate
-Dhaka,Mymensingh,259,Bus,BRTA Mohakhali fare chart 23 Apr 2026 - 51-seat total fare
-Mymensingh,Jamalpur,120,Bus,BRTA official Tk 2.23 per km rate applied to district connector distance estimate
-Mymensingh,Netrokona,120,Bus,BRTA official Tk 2.23 per km rate applied to district connector distance estimate
-Jamalpur,Sherpur,80,Bus,BRTA official Tk 2.23 per km rate applied to district connector distance estimate
-Netrokona,Kishoreganj,130,Bus,BRTA official Tk 2.23 per km rate applied to district connector distance estimate
+Source,Destination,Cost,Mode
+Bagerhat,Khulna,90,Bus
+Bagerhat,Pirojpur,90,Bus
+Bandarban,Chattogram,160,Bus
+Bandarban,Cox's Bazar,250,Bus
+Bandarban,Rangamati,180,Bus
+Barguna,Barishal,180,Bus
+Barguna,Jhalokathi,150,Bus
+Barguna,Patuakhali,110,Bus
+Barishal,Bhola,150,Bus
+Barishal,Dhaka,464,Bus
+Barishal,Jhalokathi,60,Bus
+Barishal,Khulna,695,Bus
+Barishal,Patuakhali,120,Bus
+Barishal,Pirojpur,110,Bus
+Bhola,Patuakhali,140,Bus
+Bogura,Gaibandha,160,Bus
+Bogura,Joypurhat,110,Bus
+Bogura,Rajshahi,260,Bus
+Bogura,Rangpur,280,Bus
+Bogura,Sirajganj,180,Bus
+Brahmanbaria,Chattogram,530,Bus
+Brahmanbaria,Comilla,160,Bus
+Brahmanbaria,Habiganj,160,Bus
+Brahmanbaria,Narsingdi,110,Bus
+Chandpur,Chattogram,420,Bus
+Chandpur,Comilla,170,Bus
+Chandpur,Munshiganj,100,Bus
+Chandpur,Shariatpur,70,Bus
+Chapainawabganj,Rajshahi,120,Bus
+Chattogram,Comilla,350,Bus
+Chattogram,Cox's Bazar,180,Train
+Chattogram,Dhaka,455,Train
+Chattogram,Feni,180,Bus
+Chattogram,Khagrachari,240,Bus
+Chattogram,Lakshmipur,330,Bus
+Chattogram,Noakhali,250,Bus
+Chattogram,Rangamati,150,Bus
+Chuadanga,Khulna,320,Bus
+Chuadanga,Kushtia,110,Bus
+Chuadanga,Meherpur,70,Bus
+Comilla,Feni,160,Bus
+Comilla,Lakshmipur,190,Bus
+Comilla,Noakhali,180,Bus
+Cox's Bazar,Dhaka,495,Train
+Dhaka,Dinajpur,725,Bus
+Dhaka,Faridpur,250,Bus
+Dhaka,Gazipur,90,Bus
+Dhaka,Gopalganj,270,Bus
+Dhaka,Jamalpur,386,Bus
+Dhaka,Jhenaidah,501,Bus
+Dhaka,Khulna,550,Train
+Dhaka,Kishoreganj,401,Bus
+Dhaka,Madaripur,180,Bus
+Dhaka,Manikganj,120,Bus
+Dhaka,Meherpur,776,Bus
+Dhaka,Munshiganj,95,Bus
+Dhaka,Mymensingh,259,Bus
+Dhaka,Narayanganj,70,Bus
+Dhaka,Narsingdi,120,Bus
+Dhaka,Panchagarh,1005,Bus
+Dhaka,Rajbari,220,Bus
+Dhaka,Rajshahi,465,Train
+Dhaka,Rangpur,320,Train
+Dhaka,Shariatpur,150,Bus
+Dhaka,Sherpur,421,Bus
+Dhaka,Sylhet,435,Train
+Dhaka,Tangail,220,Bus
+Dinajpur,Nilphamari,110,Bus
+Dinajpur,Rangpur,160,Bus
+Dinajpur,Thakurgaon,80,Train
+Faridpur,Gopalganj,160,Bus
+Faridpur,Jashore,220,Bus
+Faridpur,Rajbari,90,Bus
+Feni,Noakhali,140,Bus
+Gaibandha,Rangpur,110,Bus
+Gopalganj,Madaripur,120,Bus
+Gopalganj,Pirojpur,140,Bus
+Habiganj,Moulvibazar,130,Bus
+Habiganj,Sylhet,210,Bus
+Jamalpur,Mymensingh,120,Bus
+Jamalpur,Sherpur,80,Bus
+Jamalpur,Tangail,210,Bus
+Jashore,Jhenaidah,120,Bus
+Jashore,Khulna,140,Bus
+Jashore,Magura,110,Bus
+Jashore,Narail,110,Bus
+Jashore,Satkhira,150,Bus
+Jhalokathi,Pirojpur,70,Bus
+Jhenaidah,Khulna,240,Bus
+Jhenaidah,Kushtia,120,Bus
+Joypurhat,Naogaon,130,Bus
+Joypurhat,Rajshahi,250,Bus
+Khagrachari,Rangamati,180,Bus
+Khulna,Kushtia,350,Bus
+Khulna,Magura,200,Bus
+Khulna,Meherpur,380,Bus
+Khulna,Narail,100,Bus
+Khulna,Satkhira,160,Bus
+Kishoreganj,Narsingdi,190,Bus
+Kishoreganj,Netrokona,130,Bus
+Kurigram,Lalmonirhat,90,Bus
+Kurigram,Rangpur,150,Bus
+Kushtia,Pabna,60,Bus
+Kushtia,Rajbari,160,Bus
+Lakshmipur,Noakhali,90,Bus
+Lalmonirhat,Rangpur,80,Bus
+Madaripur,Shariatpur,100,Bus
+Magura,Narail,100,Bus
+Manikganj,Rajbari,110,Bus
+Manikganj,Tangail,120,Bus
+Moulvibazar,Sylhet,130,Bus
+Munshiganj,Narayanganj,60,Bus
+Mymensingh,Netrokona,120,Bus
+Mymensingh,Sherpur,140,Bus
+Mymensingh,Tangail,210,Bus
+Naogaon,Rajshahi,120,Bus
+Natore,Pabna,140,Bus
+Natore,Rajshahi,100,Bus
+Natore,Sirajganj,200,Bus
+Netrokona,Sunamganj,200,Bus
+Nilphamari,Rangpur,120,Bus
+Pabna,Rajshahi,210,Bus
+Pabna,Sirajganj,110,Bus
+Panchagarh,Rangpur,270,Bus
+Panchagarh,Thakurgaon,100,Bus
+Rajshahi,Rangpur,460,Bus
+Rajshahi,Sirajganj,310,Bus
+Rangpur,Thakurgaon,240,Bus
+Sirajganj,Tangail,90,Bus
+Sunamganj,Sylhet,140,Bus
+Dhaka,Thakurgaon,650,Train
+Barishal,Jashore,374,Bus
+Khulna,Rajshahi,615,Bus
+Bogura,Khulna,665,Bus
+Khulna,Rangpur,929,Bus
+Rangpur,Sylhet,1069,Bus
+Chattogram,Sylhet,700,Bus
+Bogura,Dhaka,650,Bus
+Feni,Lakshmipur,150,Bus
+Kushtia,Meherpur,100,Bus
+Jhenaidah,Magura,80,Bus
+Chuadanga,Jashore,160,Bus
+Lalmonirhat,Nilphamari,90,Bus
+Dinajpur,Panchagarh,160,Bus
